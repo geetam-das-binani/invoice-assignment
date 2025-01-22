@@ -1,12 +1,12 @@
 Invoice with GST Web Application
 
-Overview
+## Overview
 
 This project is a web application for generating invoices with GST (Goods and Services Tax) calculations. The application allows users to manage products, select applicable GST rates, and generate professional invoices. The generated invoices can be exported as PDF files.
 
 
 
-Features
+## Features
 
 Core Functionality
 
@@ -32,7 +32,7 @@ Export the invoice as a PDF file.
 
 Technologies Used
 
-Frontend
+## Frontend
 
 HTML for structuring the web pages.
 
@@ -43,7 +43,7 @@ Bootstrap 5 for responsive and modern UI design.
 
 EJS (Embedded JavaScript Templates) for rendering dynamic content.
 
-Backend
+## Backend
 
 Node.js for server-side scripting.
 
@@ -56,11 +56,11 @@ Mongoose for MongoDB object modeling.
 PDFKit for generating PDF invoices.
 
 
-Installation and Setup
+## Installation and Setup
 
 Clone the Repository:
 
-git clone https://github.com/your-repository/invoice-with-gst.git
+git clone https://github.com/geetam-das-binani/invoice-assignment
 
 Navigate to the Project Directory:
 
